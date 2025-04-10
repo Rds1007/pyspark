@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-"""remove_redundant_pairs
 
 
 from pyspark.sql import SparkSession
